@@ -6,6 +6,7 @@ Herramienta interactiva y portátil diseñada para facilitar la calificación de
 
 **Profesora:** Cristina Ramos García
 
+**Enlace**: https://cite-steam-sanjoseba.github.io/calificador_funciones/
 ## **🚀 ¿En qué consiste esta herramienta?**
 
 Esta aplicación es una calculadora de calificaciones creada para usarse durante las exposiciones orales de los alumnos. Está construida en un **único archivo HTML** (index.html) que utiliza React y Tailwind CSS.
